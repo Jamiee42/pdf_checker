@@ -1,0 +1,20 @@
+# Python 缓存（每次运行自动生成，不要上传）
+__pycache__/
+*.pyc
+
+# 虚拟环境（别人自己创建，不要上传）
+.venv/
+venv/
+
+# PyInstaller 打包产物
+dist/
+build/
+*.spec
+
+# IDE 配置（别人可能用不同IDE）
+.vscode/
+.idea/
+
+# 操作系统垃圾文件
+.DS_Store
+Thumbs.db
