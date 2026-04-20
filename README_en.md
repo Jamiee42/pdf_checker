@@ -1,3 +1,9 @@
+<div align="center">
+
+[![🇨🇳 中文](https://img.shields.io/badge/语言-中文-blue.svg)](README.md)
+
+</div>
+
 # PDF Checker
 
 A desktop tool built with Python for quickly analyzing PDF page types and generating an Excel-based statistical report.

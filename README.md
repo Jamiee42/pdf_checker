@@ -1,3 +1,9 @@
+<div align="center">
+
+[![🇺🇸 English](https://img.shields.io/badge/Language-English-blue.svg)](README_en.md)
+
+</div>
+
 # PDF Checker 预检助手
 一款采用 Python 编写的桌面工具，可用于快速判断 PDF 页面类型，并输出 Excel 格式的统计报告。
 
